@@ -1,64 +1,22 @@
-<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en">
+<?xml version="1.0"?>
+<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en" authors="Mark Rozen Pettinelli">
   <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
-  <md:content-id>col11880</md:content-id>
-  <md:title>Truth and Reality</md:title>
-  
-  
-  <md:license url="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution License 4.0</md:license>
-  <md:language>en</md:language>
-
-  
-
-  
-  <md:uuid>0999c06d-dec3-4fec-87eb-49cb53630c14</md:uuid>
-<md:slug>truth-and-reality</md:slug>
-</metadata>
-
+    <md:content-id>col11880</md:content-id>
+    <md:title>Truth and Reality</md:title>
+    <md:license url="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution License 4.0</md:license>
+    <md:language>en</md:language>
+    <md:uuid>0999c06d-dec3-4fec-87eb-49cb53630c14</md:uuid>
+    <md:slug>truth-and-reality</md:slug>
+  </metadata>
   <col:content>
-    
-      <col:module document="m57743"/>
-        
-      
-    
-    
-      <col:module document="m57744"/>
-        
-      
-    
-    
-      <col:module document="m57748"/>
-        
-      
-    
-    
-      <col:module document="m57749"/>
-        
-      
-    
-    
-      <col:module document="m57750"/>
-        
-      
-    
-    
-      <col:module document="m57752"/>
-        
-      
-    
-    
-      <col:module document="m57753"/>
-        
-      
-    
-    
-      <col:module document="m57754"/>
-        
-      
-    
-    
-      <col:module document="m57755"/>
-        
-      
-    
+    <col:module document="m57743"/>
+    <col:module document="m57744"/>
+    <col:module document="m57748"/>
+    <col:module document="m57749"/>
+    <col:module document="m57750"/>
+    <col:module document="m57752"/>
+    <col:module document="m57753"/>
+    <col:module document="m57754"/>
+    <col:module document="m57755"/>
   </col:content>
 </col:collection>
